@@ -13,7 +13,6 @@ const Home = () => (
       <link rel='icon' href='/favicon.ico' />
       <link rel="stylesheet" href="/css/main.css" type="text/css" media="all"></link>
       <script src="/js/main.js" type="text/javascript" />
-      <script src="/js/zdog.dist.min.js" type="text/javascript" />
     </Helmet>
     <Nav />
     <div id="main">
